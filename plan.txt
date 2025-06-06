@@ -1,0 +1,59 @@
+Come up with a team project and we can decide what it wants to do
+Every member should have a page - It should be a solution to a problem // impact
+
+WEBSITE IDEAS:
+ Questionnaire:
+ What is group interested in?
+ Education / Learning > Diana, Sanyu
+ Entertainment / Fun
+ Community / Social good
+ Business / Services > John
+ - a website for "service for a service" skills - swapping skills - free site - barter economy 
+ - a website for selling flowers - digital marketplace for florists 
+ - a website that connects freelancers to work online - if you're working on a project you post your project and people that have skills show interest 
+
+
+ SERVICE FOR SERVICE:
+
+SkillSwap 
+
+
+ Admin
+ Login page 
+ Dashboard : user management, pending swaps, completed swaps, reports, skills statistics  
+ Swap Management: (approve requests, view reports, view all swaps, view all users)
+ Skills Statistic
+ All services homepage (editable)
+ 
+ Service providers (swappers)
+ Registration form
+ About us page
+ Login page
+ All services homepage (landing page)
+ Profile (including reviews + checkout service option)
+ ontact us page
+Dashboard - (total swaps&requests, pending swaps&requests, ongoing swaps&requests, completed swaps&requests)
+
+ Customers (non-service providers)
+ Registration form (so we have their address and payment details)
+ About us page 
+ Login page
+ All services homepage 
+Contact us page 
+Cart (pending, order history)
+-----------------------------------------------
+1st meeting - overall layout - samples etc. - then create landing page as a group 
+
+LANDING PAGE - Includes Navigation
+Display swaps - what we offer
+
+Which pages will appear on Navigation; ON TOP
+Far right corner - sign up/login - takes you to the login/signup page - create account / login button - admin,customers,swappers
+Contact us 
+About us 
+
+
+
+
+
+
